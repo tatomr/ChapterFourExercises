@@ -1,0 +1,9 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\bin\Debug\Test Score Average.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\bin\Debug\Test Score Average.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test Score Average.csprojResolveAssemblyReference.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test_Score_Average.Form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test Score Average.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test Score Average.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test Score Average.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFourExercises\obj\x86\Debug\Test Score Average.pdb
